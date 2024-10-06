@@ -1,3 +1,6 @@
+# Venv
+llms_rasbt
+
 # Configs and keys
 ch05/07_gpt_to_llama/config.json
 ch07/02_dataset-utilities/config.json
@@ -270,3 +273,4 @@ cython_debug/
 
 # vscode
 .vscode/
+
